@@ -1,4 +1,4 @@
-# .github
+# About Us 
 - AgotaSoft is an organization that has been actively developing desktop-based projects in the ERP industry for the last 3 years.
 
  - Our future plans are to be active in many areas and support young developers. 
