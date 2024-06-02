@@ -6,6 +6,3 @@
  - It has a team that is willing to update and continue the projects currently developed.
 
 ## Game Dev | Mobile Dev | Web Dev | Desktop Dev | Embedded Dev |
-
-#### Founder 
-* [@Agota](https://www.github.com/AhmetRasB)
